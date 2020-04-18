@@ -1,1 +1,1 @@
-pubilic
+pubilic class
